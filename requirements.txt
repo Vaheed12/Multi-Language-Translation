@@ -1,0 +1,6 @@
+streamlit
+pandas
+mtranslate
+os
+base64
+gTTS
